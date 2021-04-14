@@ -127,7 +127,7 @@ const Footer = () => {
               </Typography>
             </Grid>
             <Grid item style={{ paddingTop: "20px" }}>
-              <ButtonGroup style={{ minWidth: "50%" }}>
+              <ButtonGroup style={{ width: "100px" }}>
                 <div className={classes.subInput}>
                   <div className={classes.iconInput}>
                     <EmailOutlinedIcon style={{ color: "#92a2ad" }} />
